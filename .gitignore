@@ -1,4 +1,3 @@
-
 # Created by https://www.gitignore.io/api/node,macos
 
 ### Node ###
@@ -71,3 +70,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#############################
+dist
