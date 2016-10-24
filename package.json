@@ -1,0 +1,26 @@
+{
+  "name": "cutie",
+  "version": "0.0.0",
+  "description": "A tiny MQTT client",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomhallam/cutie.git"
+  },
+  "keywords": [
+    "mqtt",
+    "client"
+  ],
+  "author": "Tom Hallam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomhallam/cutie/issues"
+  },
+  "homepage": "https://github.com/tomhallam/cutie#readme",
+  "dependencies": {
+    "electron": "^1.4.4"
+  }
+}
