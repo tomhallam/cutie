@@ -1,2 +1,2 @@
 # cutie
-Nice little MQTT client
+Tiny little MQTT client
